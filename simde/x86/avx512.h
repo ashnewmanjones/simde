@@ -49,6 +49,7 @@
 #include "avx512/cvt.h"
 #include "avx512/cvts.h"
 #include "avx512/div.h"
+#include "avx512/dpbusd.h"
 #include "avx512/extract.h"
 #include "avx512/fmadd.h"
 #include "avx512/fmsub.h"
